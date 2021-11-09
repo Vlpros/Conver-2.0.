@@ -1,0 +1,153 @@
+.body{
+    background-color: #28252b;
+    color:#7a5f41; 
+    
+}
+.header{
+background-color: #28252b;
+color:#7a5f41;
+height: 50px;
+font-family:"Gill Sans", sans-serif;
+font-size: large;
+
+}
+.presentation{
+background-color: #28252b;
+color:#7a5f41;
+height: 377px;
+font-family:"Gill Sans", sans-serif;
+font-size: 30px;
+
+width: 85%;
+float:left;
+}
+.image{
+width: 15%;
+float:left;
+height: 7px;
+}
+
+/*Портфель*/
+.portfeli{
+    background-color: #28252b;
+    color:#7a5f41; 
+    font-size: 25px;
+    width: 40%;
+    float:left;
+    height:510px;
+   
+
+}
+.count{
+    background-color:   #807553;
+}
+.deletecount{
+    background-color:   #807553;
+}
+.inputt{
+    background-color:   #807553 ;
+
+    
+}
+::placeholder{
+ color:#141413;   
+}
+h3{
+    text-align: center;
+}
+/*Криптовалюта курс*/
+.kurs{
+    background-color: #28252b;
+    color:#7a5f41; 
+    font-size: 25px;
+    float:left;
+    width:60%;
+  min-height: 510px;
+  margin-top: 0px;
+}
+.knopkakurs{
+    background-color:   #807553;
+    width: 50px;
+    height: 50px;
+    
+}
+.btccr{
+    background-color:   #807553;
+    
+  
+}
+.ethcr{
+    background-color:   #807553;
+}
+.usdcr{
+    background-color:   #807553;
+}
+
+/*Выбор валюты на обмен*/
+
+
+
+
+.cryptovaluta{
+
+background-color: #28252b;
+color:#7a5f41;
+float:left;
+text-align: center;
+width: 100%;
+margin-top: 0px;
+height: 216px;
+}
+h4{
+font-size: 25px;
+}
+.crypt{
+width: 100px;
+height: 50px; 
+background-color:   #807553;
+}
+.cryptto{
+width: 100px;
+height: 50px; 
+background-color:   #807553;
+}
+
+/*Конвертер*/
+
+.osnova{
+background-color: #28252b;
+color:#7a5f41;
+font-size: 25px;
+height: 450px; 
+width: 50%;
+
+float:left;
+}
+.kurs2{
+    background-color: #28252b;
+color:#7a5f41;
+font-size: 25px;
+height: 450px; 
+width: 50%;
+
+float:left;
+}
+
+.footer{
+    float:left;
+    background-color: #28252b;
+    color:#7a5f41;
+    height: 50px;
+    font-family:"Gill Sans", sans-serif;
+    font-size: large;
+    margin-bottom: 0;
+    width: 100%;
+    margin-top: 1px;
+
+}
+.convertation{
+    background-color:   #807553;
+}
+.delete{
+    background-color:   #807553;
+}
